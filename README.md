@@ -97,6 +97,9 @@ docker run --name <NOME DO CONTAINER> -e POSTGRES_PASSWORD=docker -p 5432:5432 -
 
 # Passe os dados do seu banco de dados SQL, no caso utilizei o postgres
 
+# Rode a migração dos dados para o Banco de Dados;
+adonis migration:run
+
 # Execute o server em modo de desenvolvimento:
 adonis serve --dev
 ```
