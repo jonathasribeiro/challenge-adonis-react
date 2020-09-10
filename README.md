@@ -29,6 +29,7 @@
   <a href="#-sobre">Sobre</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-executando-o-projeto">Executando o projeto</a> •
+  <a href="#-insomnia">Licença</a>
   <a href="#-licença">Licença</a>
 </p>
 
