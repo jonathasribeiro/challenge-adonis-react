@@ -117,6 +117,13 @@ Caso a página não abrir automaticamente, acesse: http://localhost:3000
 
 ---
 
+## Arquivo Insomnia
+
+Clique no link e tenha facil acesso ao arquivo do Insomnia para o uso da API
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Challange%20Adonis%20React&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjonathasribeiro%2Fchallenge-adonis-react%2Fmaster%2Fbackend%2Fexport.json)
+
+---
 
 ## 📋 Licença
 
