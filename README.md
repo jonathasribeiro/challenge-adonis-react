@@ -1,6 +1,6 @@
 <!-- banner -->
 <h1 align="center">
-  <img alt="Calendar" title="Calendar" src="./github/Tela.png">
+  <img alt="Calendar" title="Calendar" src="./github/Tela.gif">
 </h1>
 
 <!-- título -->
